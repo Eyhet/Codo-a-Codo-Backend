@@ -1,0 +1,110 @@
+.coloresnavbar
+{
+    color: grey !important;
+
+}
+
+#itemnav1, #textonav1
+{
+    color: white !important;
+}
+
+#itemnavbartickets
+{ color: green !important
+    ;}
+
+.carrusel
+{
+    margin-right: auto !important ;
+}
+
+.carousel-item img
+{  filter: brightness(50%);}
+
+#card1 , #card2 , #card3
+{
+    width: 25% !important;
+    margin-left: 3%;
+}
+
+#card1
+{
+    margin-left: 10%;
+}
+
+#cartel
+{
+    width: auto;
+}
+
+.row>.card
+{
+ padding-left:0;
+ padding-right:0;
+}
+
+
+#superbody
+{
+    background-color: rgb(52, 56, 59);
+    height: 100%;
+    border-left: 1px solid white;
+    color: white;
+    padding-left: 10px;
+    padding-top: 15px;
+    
+}
+
+#inputPassword5
+{
+    width: 70% !important;
+    margin-left: auto;
+}
+
+#inputApellido
+{
+    width: 70%;
+}
+
+.formbox
+{
+    width: 70% !important;
+    margin-left: auto;
+    margin-right: auto;
+    height: 120px;
+}
+
+#p-form
+{
+    margin-left: 15%;
+    color: grey;
+}
+
+#btn-form
+{
+    margin-left: 15%;
+    width: 70%;
+    background-color: lightgreen;
+}
+
+#footer
+{
+    margin-top: 1%;
+    background-image: linear-gradient(to right, rgb(27,57,53), rgb(32,87,114) ) ;
+    height: 100px;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 0 !important;
+
+}
+
+
+.footertext
+{
+    color: white;
+    text-decoration: none;
+    text-align: end;
+    margin-right: 0;
+    margin-left: 9%;
+    text-size-adjust: auto;
+}
